@@ -2,7 +2,6 @@
 
 class Flash {
  
-
     private $classes=[
         'error' => 'alert-danger',
         'success' => 'alert-success',
